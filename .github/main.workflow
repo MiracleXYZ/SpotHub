@@ -15,6 +15,6 @@ action "Release Playlist" {
   uses = "./.github/actions/spotify-playlist"
   secrets = ["SPOTIFY_AUTH", "SPOTIFY_REFRESH_TOKEN"]
   env = {
-    playlist_id = "5lNXObovv3WL1Ioyag2FuG"
+    playlist_id = "7yFO70boRjP89wkjHDXvvk"
   }
 }
